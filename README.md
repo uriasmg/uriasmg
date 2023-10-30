@@ -44,18 +44,17 @@
 Müller Urias |
 contato@drmuller.com.br
 
-Retina Specialist |
-Ophthalmologist |
-Medical Doctor
+An overthinker who develop as a hobbie. A few full-stack projects, some python scripts and one dashboard here and there when needed.
+Building things to find myself more useful in my daily work, learning at my own pace and trying to find joy and fun along the way.
 
-Music lover |
-Carbonara eater |
-Data Science supporter |
-CTF noob |
-Melo's (profile pic) father (rescue!)
+Other facts:
+Father of one (check the profile pic)
 
-Python | R | SQL | Tableau
-Photoshop | Lightroom | DaVinci Resolve | 3DS Max
+Music lover | Carbonara eater | Data Science Enthusiast | Not-an-AI-hyped-person | Actually-avoiding-AI-hyped-people
+
+NeoVim user | Making bugs and bad jokes since NaN | CTF noob
+
+Retina Specialist | Ophthalmologist | Medical Doctor (BTW)
 
 [drmuller.com.br](https://www.drmuller.com.br) | [Tableau](https://public.tableau.com/app/profile/m.ller.urias) | [LinkedIn](https://www.linkedin.com/in/mullerurias/) | [Lattes](http://lattes.cnpq.br/6237614423470667)
 
