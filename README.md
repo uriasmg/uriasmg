@@ -50,7 +50,7 @@ Building things to find myself more useful in my daily work, learning at my own 
 Other facts:
 Father of one (check the profile pic)
 
-Music lover | Carbonara eater | Data Science Enthusiast | Not-an-AI-hyped-person | Actually-avoiding-AI-hyped-people
+Music lover | Carbonara eater | Data Science Enthusiast
 
 NeoVim user | Making bugs and bad jokes since NaN | CTF noob
 
